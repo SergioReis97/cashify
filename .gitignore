@@ -66,4 +66,4 @@ typings/
 .next
 
 # Transpilation output
-dist
+#dist
